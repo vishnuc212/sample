@@ -4,3 +4,4 @@
 "Changed from sample2"
 "Changed again by sample2"
 "Checking git tag"
+"Checking revert operation"
